@@ -1,4 +1,4 @@
-package HashSet;
+package HashSetQUE;
 
 import java.util.HashSet;
 
