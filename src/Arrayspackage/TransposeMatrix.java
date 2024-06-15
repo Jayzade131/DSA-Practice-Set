@@ -1,3 +1,5 @@
+package Arrayspackage;
+
 public class TransposeMatrix {
     public int[][] transpose(int[][] matrix) {
         int row = matrix.length;
